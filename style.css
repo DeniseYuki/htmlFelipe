@@ -1,0 +1,23 @@
+body{
+    display:flex;
+    margin: 5px;
+    margin-top: 10px;
+    padding: 10px;
+    
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+.caixa{
+    padding:10px ;
+    border:10px solid black;
+    margin-left: 100px;
+    margin-top: 110px;
+}
+.caixa1{
+    padding:10px ;
+    border: 10px solid black;
+    margin-left: 100px;
+    margin-top: 110px;
+}
