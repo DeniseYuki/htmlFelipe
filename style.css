@@ -3,21 +3,28 @@ body{
     margin: 5px;
     margin-top: 10px;
     padding: 10px;
+    background-color: rgb(219, 223, 18);
+   
     
 }
 img{
     width: 200px;
-    height: 200px;
+    height: 220px;
+    border: 10px solid rgb(11, 230, 139);
+   
 }
 .caixa{
     padding:10px ;
     border:10px solid black;
     margin-left: 100px;
     margin-top: 110px;
+    background-color: rgb(32, 116, 122);
 }
 .caixa1{
     padding:10px ;
     border: 10px solid black;
     margin-left: 100px;
     margin-top: 110px;
+    background-color: rgb(32, 116, 122);
+
 }
